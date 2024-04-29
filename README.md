@@ -30,4 +30,6 @@ Profile Visitors
 
 ## 🌎 Web React
 
-
+<a href="https://github.com/logeshpalani30/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=logeshpalani30&show_icons=true&include_all_commits=true&theme=radical" alt="logeshpalani30's github stats" />
+</a>
