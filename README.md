@@ -19,4 +19,14 @@ Profile Visitors
 - **Facebook**: https://www.facebook.com/logeshpalani30
 - **Instagram**: https://www.instagram.com/logeshpalani31
 
-### 🗣️Speaking
+### 🗣️ Speaking
+
+### 📝 Blogs
+
+## 📱 Maui & Xamarin
+
+## 🌩️ Cloud and AI
+
+## 🌎 Web React
+
+
