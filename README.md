@@ -4,7 +4,6 @@ Profile Visitors
 
 ### Hi there 👋
 
-
 - ✨ My name is **Logesh Palani**
 - ✨ I'm a **Full Stack Developer**
 - ✨ I'm a **[Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/02b688a8-0d07-ec11-b6e6-000d3a57952c)** at Microsoft
@@ -22,8 +21,10 @@ Profile Visitors
 
 ### 🗣️ Speaking [Sessionize](https://sessionize.com/logeshpalani32)
 
-1. [C# Coding Guidelines and Best Practices](https://sessionize.com/s/logeshpalani32/c-coding-guidelines-and-best-practices/55964)
-2. [Build real-time web apps with Azure Web PubSub](https://sessionize.com/s/logeshpalani32/build-real-time-web-apps-with-azure-web-pubsub/55963)
+1. [C# Coding Guidelines and Best Practices](https://sessionize.com/s/logeshpalani32/c-coding-guidelines-and-best-practices/55964) - May 4, 2022
+1. [Build real-time web apps with Azure Web PubSub](https://sessionize.com/s/logeshpalani32/build-real-time-web-apps-with-azure-web-pubsub/55963) - May 22, 2021
+1. [What's new in .NET 8 for Web, frontends, backends, and futures?](https://www.meetup.com/msdevgeeks/events/293563210/) - June 14, 2023
+1. [LINQ with C# - Tamil](https://www.meetup.com/xmonkeys360/events/292256549/) - [Recording Link](https://www.youtube.com/watch?v=0Ouw_5srYZg) - March 19, 2023
 
 ### 🚀 Hackthon
 
