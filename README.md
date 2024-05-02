@@ -7,7 +7,7 @@ Profile Visitors
 
 - ✨ My name is **Logesh Palani**
 - ✨ I'm a **Full Stack Developer**
-- ✨ I'm a **Microsoft MVP** at Microsoft
+- ✨ I'm a **[Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/02b688a8-0d07-ec11-b6e6-000d3a57952c)** at Microsoft
 - ✨ **Hobbies**: Drawing, Photography, Video Games
 - ✨ **Current Company**: [Siemens](https://www.siemens.com/global/en.html)
 - ✨ **Competencies**: MAUI, Xamarin Forms and Native, C#, .NET Core, .NET 7.0, MVC, jQuery, Microsoft Azure, Azure DevOps, HTML, CSS, SQL, API, Postman, Swift, Javascript, Git, Entity Framework Core, IOT, Raspberry Pi, Arduino, C, Power BI
