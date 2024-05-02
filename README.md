@@ -18,8 +18,9 @@ Profile Visitors
 - **Twitter**: https://twitter.com/logeshpalani30
 - **Facebook**: https://www.facebook.com/logeshpalani30
 - **Instagram**: https://www.instagram.com/logeshpalani31
+- **Sessionize**: https://sessionize.com/logeshpalani32
 
-### 🗣️ Speaking  - [sessionize](https://sessionize.com/logeshpalani32)
+### 🗣️ Speaking
 
 1. [C# Coding Guidelines and Best Practices](https://sessionize.com/s/logeshpalani32/c-coding-guidelines-and-best-practices/55964) - May 4, 2022
 1. [Build real-time web apps with Azure Web PubSub](https://sessionize.com/s/logeshpalani32/build-real-time-web-apps-with-azure-web-pubsub/55963) - May 22, 2021
