@@ -27,7 +27,7 @@ Profile Visitors
 1. [What's new in .NET 8 for Web, frontends, backends, and futures?](https://www.meetup.com/msdevgeeks/events/293563210/) - June 14, 2023
 1. [LINQ with C# - Tamil](https://www.meetup.com/xmonkeys360/events/292256549/) - [Recording Link](https://www.youtube.com/watch?v=0Ouw_5srYZg) - March 19, 2023
 
-### 🚀 Hackthon
+### 🚀 Hackathon
 
 1. [Attendance Management using Azure Cognitive Services](https://devpost.com/software/attendance-management-using-azure-cognitive-services)
 
